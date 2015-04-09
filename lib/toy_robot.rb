@@ -1,6 +1,7 @@
 require 'asciiart'
 require 'forwardable'
 require 'rainbow'
+require 'terminal-table'
 
 require 'toy_robot/roboto'
 require 'toy_robot/roboto/brain'
